@@ -4,7 +4,69 @@ To map several needs in IT to choice and sweet new technologies (framework and l
 
 ## TODO : define table of content
 
-with application lifecycle steps and dev process
+from a application lifecycle steps and dev process point of view (ALM), like : https://docs.microsoft.com/en-us/power-platform/alm/overview-alm ?
+
+### from a more dev point of view (SDLC) like : https://www.youtube.com/watch?v=EqzUcMzfV1w
+
+1. Application and data
+   - Libraries
+   - Assest and Media
+   - Application Hosting
+   - Langages & Frameworks
+   - Data stores
+2. Utilities
+   - Payments
+   - Mobile
+   - Application utilities
+   - Analytics
+   - COmmunications
+3. DevOps
+   - Build
+   - Test
+   - Deploy
+   - Monitoring
+4. Business tools
+   - Support,
+   - Sales and Marketing
+   - Back Office
+   - Collaboration
+   - Design
+
+### from a stack technology view, like : https://stackshare.io/categories ?
+
+```
+HTML & CSS
+Sass & PostCSS
+CSS Frameworks
+UI Design Principles
+JavaScript
+Extra Programming Tools
+Deploying Frontend Projects
+Basic Frontend Developer Checklist
+Where To Go From Here
+Frontend Frameworks
+TypeScript
+UI Kits & Libraries
+Testing
+Server-Side Rendering
+Static Site Generators
+Headless CMS
+The Jamstack
+Frontend Superstar Checklist
+Server-Side Languages
+Server-Side Web Frameworks
+Databases
+REST APIs
+GraphQL
+Authentication & Authorization
+WordPress
+Deploying Full Stack Projects
+Backend & Full Stack Checklist
+Mobile App Development
+Web3
+Web Assembly
+Artificial Intelligence
+```
 
 ## TODO : To sort
 
