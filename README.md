@@ -1,6 +1,6 @@
 # Technical-Awesome-List
 
-To map several needs in IT to choice and sweet new technologies (framework and library)
+To bookmark online knowledge resources and trendy new technologies in the field of computer science.
 
 ## Table of content
 
