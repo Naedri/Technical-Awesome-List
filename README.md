@@ -176,7 +176,7 @@ To map several needs in IT to choice and sweet new technologies (framework and l
 - [Readium Website](https://readium.org/)
 - [Home - The A11Y Project](https://www.a11yproject.com/)
 - [Wendy Mackay - Informatique et sciences numériques (chaire annuelle 2021-2022) - Collège de France](https://www.college-de-france.fr/site/wendy-mackay/index.htm)
-- [The 21 Main UX Laws Every Designer Must Follow + Examples](https://maze.co/collections/ux-ui-design/ux-laws/#:~:text=According to this design law,and differently colored%2C for instance))
+- [The 21 Main UX Laws Every Designer Must Follow + Examples](https://maze.co/collections/ux-ui-design/ux-laws)
 - [5 Essential Laws for UX Designers | by uxplanet.org | UX Planet](https://uxplanet.org/5-essential-laws-for-ux-designers-5ca70466faa1)
 - [UI cheat sheet: buttons. My favourite design element is the… | by Tess Gadd | UX Collective](https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112)
 - [7 Basic Rules for Button Design. by Nick Babich | by Nick Babich | UX Planet](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
@@ -627,5 +627,5 @@ To map several needs in IT to choice and sweet new technologies (framework and l
 
 - [Programmer Humor](https://programmerhumour.tumblr.com/)
 - [Programmer+Humor sur Tumblr](https://www.tumblr.com/tagged/Programmer%2BHumor?sort=top)
-- [- nixCraft](https://nixcraft.tumblr.com/)
+- [nixCraft](https://nixcraft.tumblr.com/)
 - [Geek Girl Problems](https://geekgirl-problems.tumblr.com/)
