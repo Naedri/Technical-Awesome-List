@@ -616,7 +616,7 @@ To map several needs in IT to choice and sweet new technologies (framework and l
 - [regex101: build, test, and debug regex](https://regex101.com/)
 - [URL Decode Online | URLDecoder](https://www.urldecoder.io/)
 - [JSON ABC - Sort JSON Alphabetically](https://novicelab.org/jsonabc/)
-- [URL Encode](https://url-decode.com/tool/url-encode?text=Paul Dano&mode=encode)
+- [URL Encode](https://url-decode.com/tool/url-encode?text=Paul&mode=encode)
 - [Free Online Photography and Retouching Tools/Resources | Giggster Guide](https://giggster.com/guide/tools/)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [SHA256 : Hash sha256 en ligne](https://www.sha256.fr/)
