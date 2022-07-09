@@ -37,6 +37,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 - [Best Java Code Examples | Tabnine](https://www.tabnine.com/code/)
 - [Free Frontend](https://freefrontend.com/)
+- [Github Copilot](https://github.com/features/copilot/)
 
 ### Cloud - AWS
 
@@ -123,6 +124,13 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 - [What's a Chocolatey "Install" package? - Stack Overflow](https://stackoverflow.com/questions/29828624/whats-a-chocolatey-install-package)
 - [Choco-Common-Install.md](https://gist.github.com/Naedri/14be042cdcc7b534daba43ff5cc5412a)
+
+### Code practices
+
+- [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react#airbnb-reactjsx-style-guide)
+- [The Twelve-Factor App](https://12factor.net/)
+- [The Grug Brained Developer](https://grugbrain.dev/)
+- [10 React Antipatterns to Avoid](https://www.youtube.com/watch?v=b0IZo2Aho9Y&list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb&index=16)
 
 ### Component - web
 
