@@ -144,6 +144,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 - [urql Documentation](https://formidable.com/open-source/urql/)
 - [Introduction to Apollo Client - Client (React) - Apollo GraphQL Docs](https://www.apollographql.com/docs/react/)
+- [Knex.js - A SQL Query Builder for Javascript](https://knexjs.org/)
 
 #### Prisma
 
@@ -174,8 +175,15 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 ### DevOps
 
+#### Deployment
+
 - [GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)
 - [Develop. Preview. Ship. For the best frontend teams – Vercel](https://vercel.com/)
+
+#### API Gateway
+
+- [nginx](https://nginx.org/en/)
+- [KrakenD - Open source API Gateway](https://www.krakend.io/)
 
 ### Design
 
@@ -507,13 +515,6 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Gestion de l'état | Microsoft Docs](https://docs.microsoft.com/fr-fr/dotnet/architecture/blazor-for-web-forms-developers/state-management)
 - [Understanding State Management - Angular](https://ideas.byteridge.com/angular-state-managment/)
 
-### techno
-
-- [nginx](https://nginx.org/en/)
-- [Knex.js - A SQL Query Builder for Javascript](https://knexjs.org/)
-- [KrakenD - Open source API Gateway](https://www.krakend.io/)
-- [JavaScript End to End Testing Framework | cypress.io testing tools](https://www.cypress.io/)
-
 ### Testing
 
 - [Is Jasmine BDD or TDD? Here's What You Need to Know](https://www.testim.io/blog/is-jasmine-bdd-or-tdd/)
@@ -617,8 +618,11 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 #### Tests framework
 
-- [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/)[Robot Framework](https://robotframework.org/)
+- [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/)
+- [Robot Framework](https://robotframework.org/)
 - [BDD Testing & Collaboration Tools for Teams | Cucumber](https://cucumber.io/)
+- [JavaScript End to End Testing Framework | cypress.io testing tools](https://www.cypress.io/)
+
 
 ### Tools - online - css color font style
 
