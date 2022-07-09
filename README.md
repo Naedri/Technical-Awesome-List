@@ -54,7 +54,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Olivier Lacan](https://olivierlacan.com/)
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2021](https://github.com/kamranahmedse/developer-roadmap)
 - [How to Learn Web Development in 2021 - a Web Developer Roadmap](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)
-- [Full Stack Developer's Roadmap 🗺 - DEV Community](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
+- [Full Stack Developer's Roadmap - DEV Community](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
 - [about nownownow.com](https://nownownow.com/about)
 
 ### CSS
