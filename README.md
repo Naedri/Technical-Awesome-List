@@ -551,14 +551,14 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 - [UML Sequence Diagram Tutorial | Lucidchart](https://www.lucidchart.com/pages/uml-sequence-diagram#section_4)
 
-### UNIX
+### Unix
 
 - [Linux Directory Structure and Important Files Paths Explained](https://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/)
 - [Ifconfig Command - Explained in Detail | All about Linux](http://www.aboutlinux.info/2006/11/ifconfig-dissected-and-demystified.html)
 - [Adoptez l’arborescence des systèmes Linux - Administrez un système Linux - OpenClassrooms](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529321-adoptez-l-arborescence-des-systemes-linux)
 - [7 Simple Ways to Free Up Space on Ubuntu and Linux Mint - It's FOSS](https://itsfoss.com/free-up-space-ubuntu-linux/)
 
-#### LUBUNTU
+#### lubuntu
 
 - [Appendix F Hotkeys shortcuts — Lubuntu Manual 20.10 documentation](https://manual.lubuntu.me/stable/F/keyboard_shortcuts.html#appendix-f-hotkeys-shortcuts)
 - [Chapter 3.2.14 Shortcut Keys — Lubuntu Manual 20.10 documentation](https://manual.lubuntu.me/stable/3/3.2/3.2.14/shortcut_keys.html)
@@ -593,10 +593,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/fr)
 - [VisBug](https://visbug.web.app/)
 
-### Tools - dev
-
-- [Cours : Mini-projet](https://moodle.imt-atlantique.fr/course/view.php?id=230#section-1)
-- [MProjet: Simulation basée sur le web](https://moodle.imt-atlantique.fr/mod/resource/view.php?id=39561)
+### Tools
 
 #### outils de développement
 
