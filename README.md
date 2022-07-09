@@ -114,7 +114,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 ### Cheatsheets - Awesome List
 
-- [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme)
+- [sindresorhus/awesome: Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme)
 - [2022 Front-end Cheatsheets | SheCodes](https://cheatsheets.shecodes.io/)
 - [typescript-cheatsheets/react: Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react)
 - [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
@@ -162,6 +162,10 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Le langage PL/SQL — Documentation Cours de bases de données 2017-2018 V1.0](http://sql.bdpedia.fr/plsql.html)
 - [Using Triggers](https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/triggers.htm#LNPLS020)
 - [Oracle / PLSQL: Execute a function that is defined in a package](https://www.techonthenet.com/oracle/questions/exec_function.php)
+
+### Data Structure
+
+- [Programiz - Data Structure Algorithm](https://www.programiz.com/dsa)
 
 ### DevOps
 
@@ -215,7 +219,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Best HTML Entities to TEXT Converter or Decoder Online tool](https://codebeautify.org/html-entities-to-text-converter)
 - [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
 
-### figma
+### Figma
 
 - [Free Unsplash Figma Plugin | Figma Elements](https://figmaelements.com/plugins/unsplash/)
 - [Free uiGradients Figma Plugin | Figma Elements](https://figmaelements.com/plugins/uigradients/)
@@ -243,6 +247,8 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Developer Center / APIs / Books API | Open Library](https://openlibrary.org/dev/docs/api/books)
 - https://openlibrary.org/books/OL7353617M.json
 - [ElephantSQL](https://customer.elephantsql.com/login)
+- [Let’s Create A Nest, Nx, GraphQL, Prisma Single Data Model Definition | by Kristan 'Krispy' Uccello | JavaScript in Plain English](https://javascript.plainenglish.io/nx-nest-prisma-graphql-single-data-model-definition-e601eaa372c6)
+
 
 ### Git Commit Hooks
 
@@ -258,11 +264,11 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [unDraw - Open source illustrations for any idea](https://undraw.co/illustrations)
 - [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 
-#### font
+#### Font
 
 - [Font Awesome](https://fontawesome.com/)
 
-#### icon
+#### Icon
 
 - [Free Icons, Clipart Illustrations, Photos, and Music](https://icons8.com/)[Ionicons: Premium Open Source Icon Pack for Ionic Framework](https://ionic.io/ionicons)
 
@@ -278,7 +284,9 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Prepare for technical interview questions](https://flaviocopes.com/prepare-interview-questions/)
 - [CodeCrafters | Advanced programming challenges](https://codecrafters.io/)
 
-### JS + (including general examples)
+### Lang JS
+
+#### JS + (including general examples)
 
 - [Classes - JavaScript | MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Classes#les_mix-ins)
 - [The `util.promisify()` Function in Node.js - Mastering JS](https://masteringjs.io/tutorials/node/promisify)
@@ -301,13 +309,13 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Affecter par décomposition - JavaScript | MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#décomposition_imbriquée_avec_objets_et_tableaux)
 - [Spreading, Resting, and Renaming Properties in TypeScript](https://levelup.gitconnected.com/spreading-resting-and-renaming-properties-in-typescript-68fb35ffb1f)
 
-### JS charts
+#### JS charts
 
 - [ApexCharts.js - Open Source JavaScript Charts for your website](https://apexcharts.com/)
 - [beautiful-react-diagrams | A tiny collection of lightweight React components for building diagrams with ease](https://antonioru.github.io/beautiful-react-diagrams/)
 - [Overview | React Charts | TanStack](https://react-charts.tanstack.com/docs/overview)
 
-### JS compilation
+#### JS compilation
 
 - [Un petit cours accéléré de compilation à la volée (JIT) - Bidouilleux d'Web](<https://tech.mozfr.org/post/2017/03/08/Un-petit-cours-accelere-de-compilation-a-la-volee-(JIT)>)
 - [Un petit cours accéléré d'assembleur - Bidouilleux d'Web](https://tech.mozfr.org/post/2017/03/08/Un-petit-cours-accelere-d-assembleur)
@@ -315,17 +323,17 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [A cartoon intro to WebAssembly Archives - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/category/code-cartoons/a-cartoon-intro-to-webassembly/)
 - [Apprendre les bases du développement web | Grafikart](https://grafikart.fr/cursus)
 
-### JS Data Structures - Collections
+#### JS Data Structures - Collections
 
 - [Linked List Data Structure](https://www.programiz.com/dsa/linked-list)
 - [Understanding Map and Set Objects in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-map-and-set-objects-in-javascript)
 - [sorting - How to sort a map by value in JavaScript? - Stack Overflow](https://stackoverflow.com/questions/37982476/how-to-sort-a-map-by-value-in-javascript)
 - [For vs forEach() vs for/in vs for/of in JavaScript | www.thecodebarbarian.com](https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript)
 
-### JS Framewok
+#### JS Framewok
 
-- [NestJS - A progressive Node.js framework](https://nestjs.com/)
-- [Introduction · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+##### Front end - client
+
 - [Reach UI](https://reach.tech/)
 - [Remix - Build Better Websites](https://remix.run/)
 - [Remix is a NEW JavaScript framework you MUST try - YouTube](https://www.youtube.com/watch?v=r4B69HAOXnA)
@@ -333,24 +341,30 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Create a Next.js App | Learn Next.js](https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website)
 - [Bien démarrer – React](https://fr.reactjs.org/docs/getting-started.html)
 
-### JS Loops
+##### Back end - serveur
+
+- [NestJS - A progressive Node.js framework](https://nestjs.com/)
+- [Setting up a NestJS project with Docker for Back-End development - DEV Community](https://dev.to/erezhod/setting-up-a-nestjs-project-with-docker-for-back-end-development-30lg)
+- [Introduction · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+#### JS Loops
 
 - [For Loops, For...Of Loops and For...In Loops in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/for-loops-for-of-loops-and-for-in-loops-in-javascript)
 
-### JS manager builder - repo tools
+#### JS manager builder - repo tools
 
 - [Nx: Smart, Fast and Extensible Build System](https://nx.dev/)
 - [@z-brain/typed-node-env - npm](https://www.npmjs.com/package/@z-brain/typed-node-env)
 
-### JS modules
+#### JS modules
 
 - [ES modules: A cartoon deep-dive - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
-### JS Operators
+#### JS Operators
 
 - [L'opérateur in - JavaScript | MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/in)
 
-### JS Promise
+#### JS Promise
 
 - [javascript - Best es6 way to get name based results with Promise.all - Stack Overflow](https://stackoverflow.com/questions/35297446/best-es6-way-to-get-name-based-results-with-promise-all)
 
@@ -404,29 +418,13 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [TypeScript Evolution — Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
 - https://www.youtube.com/watch?v=s_CZeWuEZ_s&t=340s
 
-### LUBUNTU
-
-- [Appendix F Hotkeys shortcuts — Lubuntu Manual 20.10 documentation](https://manual.lubuntu.me/stable/F/keyboard_shortcuts.html#appendix-f-hotkeys-shortcuts)
-- [Chapter 3.2.14 Shortcut Keys — Lubuntu Manual 20.10 documentation](https://manual.lubuntu.me/stable/3/3.2/3.2.14/shortcut_keys.html)
-- [comparatif_lubuntu_xubuntu [Wiki ubuntu-fr\]](http://doc.ubuntu-fr.org/comparatif_lubuntu_xubuntu)
-- [keyboard - How do I write french accents in Ubuntu 20.04 - Ask Ubuntu](https://askubuntu.com/questions/1266800/how-do-i-write-french-accents-in-ubuntu-20-04)
-- [How to resize windows using hot keys to fill 50% of the screen? - Lubuntu Support - Lubuntu Discourse](https://discourse.lubuntu.me/t/how-to-resize-windows-using-hot-keys-to-fill-50-of-the-screen/1189)
-- [How I can create a shortcut to maximize/minimize windows in Lubuntu? - Ask Ubuntu](https://askubuntu.com/questions/305767/how-i-can-create-a-shortcut-to-maximize-minimize-windows-in-lubuntu/306172#306172)
-- [Lubuntu/Windows - Community Help Wiki](https://help.ubuntu.com/community/Lubuntu/Windows#Reposition_and_Resize_Windows_Without_Using_a_Mouse)
-- [Tips and tricks | Lubuntu](https://lubuntu.me/tips-tricks/)
-- [[Openbox\] Hacks and Configs Thread! / Applications & Desktop Environments / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=93126)
-- [Filter Blue Light with F.lux Alternatives for Ubuntu, Linux Mint OS - SecurityBind](https://www.securitybind.com/filter-blue-light-with-flux-alternatives-linux/)
-- [Different wallpapers for different desktops? - Lubuntu Support - Lubuntu Discourse](https://discourse.lubuntu.me/t/different-wallpapers-for-different-desktops/2201/2)
-- [Fully dark theme by default on Lubuntu - #3 by Wugubee - Lubuntu Support - Lubuntu Discourse](https://discourse.lubuntu.me/t/fully-dark-theme-by-default-on-lubuntu/2129/3)
-- [Lubuntu 20.04 Making LXQT look AMAZING! Easy Dark Themes! - YouTube](https://www.youtube.com/watch?v=oxG54VF8XPo)
-
-### markdown
+### Lang - MD
 
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Insert Page Breaks into your Documents - Markdown Monster Documentation](https://markdownmonster.west-wind.com/docs/_5ne1ccv4t.htm)
 
-### network - TCP IP DNS CDN
+### Network - TCP IP DNS CDN
 
 - [linux - Why is my ethernet interface called enp0s10 instead of eth0? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/134483/why-is-my-ethernet-interface-called-enp0s10-instead-of-eth0)
 - [Understanding the Loopback Interface - TechLibrary - Juniper Networks](https://www.juniper.net/documentation/en_US/junos/topics/concept/interface-security-loopback-understanding.html)
@@ -498,7 +496,6 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 - [Vidéos de Downdusky - Twitch](https://www.twitch.tv/downdusky/videos?category=1469308723&filter=archives&sort=time)
 - [Bartosz Ciechanowski](https://ciechanow.ski/)
-- [Bartosz Ciechanowski](https://ciechanow.ski/)
 
 ### Type programming
 
@@ -518,11 +515,21 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Adoptez l’arborescence des systèmes Linux - Administrez un système Linux - OpenClassrooms](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529321-adoptez-l-arborescence-des-systemes-linux)
 - [7 Simple Ways to Free Up Space on Ubuntu and Linux Mint - It's FOSS](https://itsfoss.com/free-up-space-ubuntu-linux/)
 
-### Tuto
+#### LUBUNTU
 
-- [Let’s Create A Nest, Nx, GraphQL, Prisma Single Data Model Definition | by Kristan 'Krispy' Uccello | JavaScript in Plain English](https://javascript.plainenglish.io/nx-nest-prisma-graphql-single-data-model-definition-e601eaa372c6)
-- [Setting up a NestJS project with Docker for Back-End development - DEV Community](https://dev.to/erezhod/setting-up-a-nestjs-project-with-docker-for-back-end-development-30lg)
-- [Programiz - Data Structure Algorithm](https://www.programiz.com/dsa)
+- [Appendix F Hotkeys shortcuts — Lubuntu Manual 20.10 documentation](https://manual.lubuntu.me/stable/F/keyboard_shortcuts.html#appendix-f-hotkeys-shortcuts)
+- [Chapter 3.2.14 Shortcut Keys — Lubuntu Manual 20.10 documentation](https://manual.lubuntu.me/stable/3/3.2/3.2.14/shortcut_keys.html)
+- [comparatif_lubuntu_xubuntu [Wiki ubuntu-fr\]](http://doc.ubuntu-fr.org/comparatif_lubuntu_xubuntu)
+- [keyboard - How do I write french accents in Ubuntu 20.04 - Ask Ubuntu](https://askubuntu.com/questions/1266800/how-do-i-write-french-accents-in-ubuntu-20-04)
+- [How to resize windows using hot keys to fill 50% of the screen? - Lubuntu Support - Lubuntu Discourse](https://discourse.lubuntu.me/t/how-to-resize-windows-using-hot-keys-to-fill-50-of-the-screen/1189)
+- [How I can create a shortcut to maximize/minimize windows in Lubuntu? - Ask Ubuntu](https://askubuntu.com/questions/305767/how-i-can-create-a-shortcut-to-maximize-minimize-windows-in-lubuntu/306172#306172)
+- [Lubuntu/Windows - Community Help Wiki](https://help.ubuntu.com/community/Lubuntu/Windows#Reposition_and_Resize_Windows_Without_Using_a_Mouse)
+- [Tips and tricks | Lubuntu](https://lubuntu.me/tips-tricks/)
+- [[Openbox\] Hacks and Configs Thread! / Applications & Desktop Environments / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=93126)
+- [Filter Blue Light with F.lux Alternatives for Ubuntu, Linux Mint OS - SecurityBind](https://www.securitybind.com/filter-blue-light-with-flux-alternatives-linux/)
+- [Different wallpapers for different desktops? - Lubuntu Support - Lubuntu Discourse](https://discourse.lubuntu.me/t/different-wallpapers-for-different-desktops/2201/2)
+- [Fully dark theme by default on Lubuntu - #3 by Wugubee - Lubuntu Support - Lubuntu Discourse](https://discourse.lubuntu.me/t/fully-dark-theme-by-default-on-lubuntu/2129/3)
+- [Lubuntu 20.04 Making LXQT look AMAZING! Easy Dark Themes! - YouTube](https://www.youtube.com/watch?v=oxG54VF8XPo)
 
 ### Chocolatey
 
@@ -532,7 +539,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 ### WebSocket
 
 - [Les Websockets : définition et implémentation dans une application Angular et Java Springboot | Axopen](https://www.axopen.com/blog/2020/05/websocket-angular-java-springboot/)
-- [GitHub - webtorrent/webtorrent-desktop: ❤️ Streaming torrent app for Mac, Windows, and Linux](https://github.com/webtorrent/webtorrent-desktop)
+- [GitHub - webtorrent/webtorrent-desktop: Streaming torrent app for Mac, Windows, and Linux](https://github.com/webtorrent/webtorrent-desktop)
 
 ### réseau
 
