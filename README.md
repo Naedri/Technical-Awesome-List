@@ -8,6 +8,10 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 ## Content
 
+### Animation
+
+- [Rive](https://rive.app/get-started/)
+
 ### API
 
 - [Introduction to GraphQL | GraphQL](https://graphql.org/learn/)
