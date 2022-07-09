@@ -574,7 +574,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Fully dark theme by default on Lubuntu - #3 by Wugubee - Lubuntu Support - Lubuntu Discourse](https://discourse.lubuntu.me/t/fully-dark-theme-by-default-on-lubuntu/2129/3)
 - [Lubuntu 20.04 Making LXQT look AMAZING! Easy Dark Themes! - YouTube](https://www.youtube.com/watch?v=oxG54VF8XPo)
 
-### Tools - Outils
+### Tools
 
 - [Bundlephobia | Size of npm dependencies](https://bundlephobia.com/)
 - [Cloudcraft – Draw AWS diagrams](https://www.cloudcraft.co/)
@@ -592,8 +592,6 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [10 Tools & Services Every Ionic Developer Should Know - YouTube](https://www.youtube.com/watch?v=AYGvuWVEKQs)
 - [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/fr)
 - [VisBug](https://visbug.web.app/)
-
-### Tools
 
 #### outils de développement
 
