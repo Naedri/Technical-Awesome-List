@@ -432,6 +432,10 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 ### Lang - Terraform
 
+- [Documentation](https://www.terraform.io/docs)
+- [Tutorials](https://learn.hashicorp.com/terraform?utm_source=terraform_io)
+
+
 ### Lang - TS
 
 - [How To Code in TypeScript | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-typescript)
