@@ -29,8 +29,8 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 - [Documentation - Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/reference.html#map-example)
 - [Maps, geocoding, and navigation APIs & SDKs | Mapbox](https://www.mapbox.com/)
-- [reifocS/ip-tracker: show the location based on ip](https://github.com/reifocS/ip-tracker)
-- https://www.geoportail.gouv.fr/carte
+- [IP address tracker - challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
+- [Geoportail Gouv](https://www.geoportail.gouv.fr/carte)
 - [Swagger UI](https://alim-pprd.agriculture.gouv.fr/ift-api/swagger-ui.html#/)
 
 ### Code IA generate
