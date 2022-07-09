@@ -119,6 +119,11 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [typescript-cheatsheets/react: Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react)
 - [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
+### Chocolatey
+
+- [What's a Chocolatey "Install" package? - Stack Overflow](https://stackoverflow.com/questions/29828624/whats-a-chocolatey-install-package)
+- [Choco-Common-Install.md](https://gist.github.com/Naedri/14be042cdcc7b534daba43ff5cc5412a)
+
 ### Component - web
 
 - [Material Design 3](https://m3.material.io/)
@@ -424,7 +429,16 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Insert Page Breaks into your Documents - Markdown Monster Documentation](https://markdownmonster.west-wind.com/docs/_5ne1ccv4t.htm)
 
-### Network - TCP IP DNS CDN
+### Meme GIF
+
+- [Programmer Humor](https://programmerhumour.tumblr.com/)
+- [Programmer+Humor sur Tumblr](https://www.tumblr.com/tagged/Programmer%2BHumor?sort=top)
+- [nixCraft](https://nixcraft.tumblr.com/)
+- [Geek Girl Problems](https://geekgirl-problems.tumblr.com/)
+
+### Network
+
+#### TCP IP DNS CDN
 
 - [linux - Why is my ethernet interface called enp0s10 instead of eth0? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/134483/why-is-my-ethernet-interface-called-enp0s10-instead-of-eth0)
 - [Understanding the Loopback Interface - TechLibrary - Juniper Networks](https://www.juniper.net/documentation/en_US/junos/topics/concept/interface-security-loopback-understanding.html)
@@ -432,6 +446,18 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Changez vos serveurs DNS sous Linux | NordVPN Customer Support](https://support.nordvpn.com/fr/Connectivité/Linux/1569822262/Changez-vos-serveurs-DNS-sous-Linux.htm)
 - [A cartoon intro to DNS over HTTPS - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
 - [Vue d’ensemble du protocole de serveur de langage - Visual Studio (Windows) | Microsoft Docs](https://docs.microsoft.com/fr-fr/visualstudio/extensibility/language-server-protocol?view=vs-2019)
+
+#### WebSocket
+
+- [Les Websockets : définition et implémentation dans une application Angular et Java Springboot | Axopen](https://www.axopen.com/blog/2020/05/websocket-angular-java-springboot/)
+- [GitHub - webtorrent/webtorrent-desktop: Streaming torrent app for Mac, Windows, and Linux](https://github.com/webtorrent/webtorrent-desktop)
+
+#### Maps
+
+- [ITU - Map](https://bbmaps.itu.int/bbmaps/)
+- [ITU BROADBAND MAPS](https://www.itu.int/en/ITU-D/Technology/Pages/InteractiveTransmissionMaps.aspx)
+- [Internet Speed in Europe](https://datavis.europeandatajournalism.eu/obct/connectivity/)
+
 
 ### News
 
@@ -531,23 +557,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [Fully dark theme by default on Lubuntu - #3 by Wugubee - Lubuntu Support - Lubuntu Discourse](https://discourse.lubuntu.me/t/fully-dark-theme-by-default-on-lubuntu/2129/3)
 - [Lubuntu 20.04 Making LXQT look AMAZING! Easy Dark Themes! - YouTube](https://www.youtube.com/watch?v=oxG54VF8XPo)
 
-### Chocolatey
-
-- [What's a Chocolatey "Install" package? - Stack Overflow](https://stackoverflow.com/questions/29828624/whats-a-chocolatey-install-package)
-- [Choco-Common-Install.md](https://gist.github.com/Naedri/14be042cdcc7b534daba43ff5cc5412a)
-
-### WebSocket
-
-- [Les Websockets : définition et implémentation dans une application Angular et Java Springboot | Axopen](https://www.axopen.com/blog/2020/05/websocket-angular-java-springboot/)
-- [GitHub - webtorrent/webtorrent-desktop: Streaming torrent app for Mac, Windows, and Linux](https://github.com/webtorrent/webtorrent-desktop)
-
-### réseau
-
-- [ITU - Map](https://bbmaps.itu.int/bbmaps/)
-- [ITU BROADBAND MAPS](https://www.itu.int/en/ITU-D/Technology/Pages/InteractiveTransmissionMaps.aspx)
-- [Internet Speed in Europe](https://datavis.europeandatajournalism.eu/obct/connectivity/)
-
-### Tools
+### Tools - Outils
 
 - [Bundlephobia | Size of npm dependencies](https://bundlephobia.com/)
 - [Cloudcraft – Draw AWS diagrams](https://www.cloudcraft.co/)
@@ -629,10 +639,3 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [SHA256 : Hash sha256 en ligne](https://www.sha256.fr/)
 - [HTML Encoder/Decoder Online | 10015 Tools](https://10015.io/tools/html-encoder-decoder)
 - [JSON Web Tokens - jwt.io](https://jwt.io/)
-
-### Meme GIF
-
-- [Programmer Humor](https://programmerhumour.tumblr.com/)
-- [Programmer+Humor sur Tumblr](https://www.tumblr.com/tagged/Programmer%2BHumor?sort=top)
-- [nixCraft](https://nixcraft.tumblr.com/)
-- [Geek Girl Problems](https://geekgirl-problems.tumblr.com/)
