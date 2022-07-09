@@ -479,7 +479,6 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 - [ITU BROADBAND MAPS](https://www.itu.int/en/ITU-D/Technology/Pages/InteractiveTransmissionMaps.aspx)
 - [Internet Speed in Europe](https://datavis.europeandatajournalism.eu/obct/connectivity/)
 
-
 ### News
 
 - [Hacker News](https://news.ycombinator.com/news)
@@ -532,7 +531,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 - [Is Jasmine BDD or TDD? Here's What You Need to Know](https://www.testim.io/blog/is-jasmine-bdd-or-tdd/)
 
-### TUTO - usefull blog
+### Tuto - usefull blog
 
 - [Vidéos de Downdusky - Twitch](https://www.twitch.tv/downdusky/videos?category=1469308723&filter=archives&sort=time)
 - [Bartosz Ciechanowski](https://ciechanow.ski/)
@@ -559,7 +558,7 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 - [Appendix F Hotkeys shortcuts — Lubuntu Manual 20.10 documentation](https://manual.lubuntu.me/stable/F/keyboard_shortcuts.html#appendix-f-hotkeys-shortcuts)
 - [Chapter 3.2.14 Shortcut Keys — Lubuntu Manual 20.10 documentation](https://manual.lubuntu.me/stable/3/3.2/3.2.14/shortcut_keys.html)
-- [comparatif_lubuntu_xubuntu [Wiki ubuntu-fr\]](http://doc.ubuntu-fr.org/comparatif_lubuntu_xubuntu)
+- [comparatif_lubuntu_xubuntu](http://doc.ubuntu-fr.org/comparatif_lubuntu_xubuntu)
 - [keyboard - How do I write french accents in Ubuntu 20.04 - Ask Ubuntu](https://askubuntu.com/questions/1266800/how-do-i-write-french-accents-in-ubuntu-20-04)
 - [How to resize windows using hot keys to fill 50% of the screen? - Lubuntu Support - Lubuntu Discourse](https://discourse.lubuntu.me/t/how-to-resize-windows-using-hot-keys-to-fill-50-of-the-screen/1189)
 - [How I can create a shortcut to maximize/minimize windows in Lubuntu? - Ask Ubuntu](https://askubuntu.com/questions/305767/how-i-can-create-a-shortcut-to-maximize-minimize-windows-in-lubuntu/306172#306172)
