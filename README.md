@@ -296,7 +296,8 @@ To bookmark online knowledge resources and trendy new technologies in the field 
 
 #### Icon
 
-- [Free Icons, Clipart Illustrations, Photos, and Music](https://icons8.com/)[Ionicons: Premium Open Source Icon Pack for Ionic Framework](https://ionic.io/ionicons)
+- [Free Icons, Clipart Illustrations, Photos, and Music](https://icons8.com/)
+- [Ionicons: Premium Open Source Icon Pack for Ionic Framework](https://ionic.io/ionicons)
 
 ### Inteview
 
